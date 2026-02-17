@@ -53,6 +53,12 @@ function MenuPolicy() {
       <li>
         <NavLink to="/privacy-policy">Privacy Policy</NavLink>
       </li>
+      <li>
+        <NavLink to="/">Contact Us</NavLink>
+      </li>
+      <li>
+        <NavLink to="/faqs">FAQs</NavLink>
+      </li>
     </ul>
   );
 }
