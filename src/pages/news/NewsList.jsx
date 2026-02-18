@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
 import { NavLink, useLoaderData, useNavigate } from "react-router";
 
 export default function NewsList() {
