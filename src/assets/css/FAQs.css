@@ -2,7 +2,6 @@
   background-color: #faf8ed;
   display: grid;
   gap: 40px;
-  /* font-size: 23px; */
 }
 
 .active-faq p {
@@ -21,7 +20,6 @@
 
 .faq-section {
   display: grid;
-  /* gap: 10px; */
 }
 
 .faq-category {
