@@ -2,7 +2,8 @@
 
 > [!IMPORTANT]
 > **WORK IN PROGRESS**
-
+## future plan:
+#### create wireframe instead of loading  
 ## Overview
 
 This project is a web application built with **React** and **Vite**, utilizing **React Router** for navigation. It represents a milestone in my learning journey, transitioning from vanilla web development to modern frontend frameworks.
