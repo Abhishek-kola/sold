@@ -338,7 +338,56 @@ footer a:hover {
 }
 
 @media (max-width: 480px) {
+  .news-category-links {
+    justify-content: center;
+  }
+
+  .article-card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .article-img {
+    width: 100%;
+  }
+
+  .article-img img {
+    object-fit: none;
+    width: 100%;
+  }
+
+  .article-categories {
+    justify-content: center;
+  }
+
   .view-more-btn {
     padding: 10px 16px !important;
+  }
+
+  .article-title {
+
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .pagination button {
+    padding: 0.1rem 0.5rem;
+    font-size: 1rem;
+  }
+
+  .pagination span {
+    font-size: 12px;
+  }
+
+  .d-grid a-links {
+    font-size: 14px;
+  }
+
+  .hero-title {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    flex-direction: column;
   }
 }
